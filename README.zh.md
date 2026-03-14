@@ -111,7 +111,7 @@ python train_go.py
 
 #### 围棋任务2
 
-任务2: 预测 katage 提供的分析。
+任务2: 预测 Katago 提供的分析。
 
 <img src="./README.assets/image-20240515110152381.png" alt="image-20240515110152381" style="zoom:33%;" />
 

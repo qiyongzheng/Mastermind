@@ -106,7 +106,7 @@ Task1: predict the next board state.
 
 #### Go-task2
 
-Task2: Predict analysis provided by katago.
+Task2: Predict analysis provided by Katago.
 
 <img src="./README.assets/image-20240515110152381.png" alt="image-20240515110152381" style="zoom:33%;" />
 
